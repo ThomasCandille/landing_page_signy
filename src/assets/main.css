@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #7c46c4;
+  --color-lavender: #b6b4ff;
+  --color-pink: #ff59c5;
+  --color-blush: #f6afd6;
+  --color-cream: #f3ded2;
+  --color-ink: #140003;
+  --color-sunshine: #fbc20a;
+  --color-turquoise: #009dc3;
+
+  --font-sans: "Helvetica", "Helvetica Neue", Arial, sans-serif;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+
+  --text-caption: 0.875rem;
+  --text-caption--line-height: 1.4;
+  --text-caption--font-weight: 400;
+
+  --text-body: 1rem;
+  --text-body--line-height: 1.5;
+  --text-body--font-weight: 400;
+
+  --text-button: 1.5rem;
+  --text-button--line-height: 1.2;
+  --text-button--font-weight: 700;
+  --text-button--letter-spacing: -0.025em;
+
+  --text-lead: 1.75rem;
+  --text-lead--line-height: 1.2;
+  --text-lead--font-weight: 400;
+  --text-lead--letter-spacing: -0.04em;
+
+  --text-heading: 2rem;
+  --text-heading--line-height: 1.15;
+  --text-heading--font-weight: 700;
+  --text-heading--letter-spacing: -0.035em;
+
+  --text-title: 3.5rem;
+  --text-title--line-height: 1;
+  --text-title--font-weight: 900;
+  --text-title--letter-spacing: -0.05em;
+
+  --text-display: 8rem;
+  --text-display--line-height: 0.9;
+  --text-display--font-weight: 700;
+  --text-display--letter-spacing: -0.06em;
+}
